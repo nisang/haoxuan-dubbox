@@ -4,7 +4,7 @@
 ### 步骤如下：
 
 ###1 检出代码
-	git clone https://github.com/dangdangdotcom/dubbox
+	git clone https://github.com/nisang/haoxuan-dubbox
 	在checkout出来的dubbox目录执行mvn install -Dmaven.test.skip=true来尝试编译一下dubbo（并将dubbo的jar安装到本地maven库）
 ###2 生成IDE工程
 	在checkout出来的dubbox根目录执行mvn idea:idea或者mvn eclipse:eclipse，来创建IDE工程文件
