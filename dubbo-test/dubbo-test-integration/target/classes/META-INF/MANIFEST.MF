@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Built-By: dandan
+Build-Jdk: 1.7.0_79
+Specification-Title: dubbo-test-integration
+Specification-Version: 2.8.4
+Specification-Vendor: Alibaba
+Implementation-Title: dubbo-test-integration
+Implementation-Version: 2.8.4
+Implementation-Vendor-Id: com.alibaba
+Implementation-Vendor: Alibaba
+Created-By: Maven Integration for Eclipse
+
